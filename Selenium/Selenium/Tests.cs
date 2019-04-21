@@ -32,7 +32,7 @@ namespace Selenium
         /// <param name="age">Age</param>
         /// <param name="parents">Parents agreement</param>
         /// <param name="doctor">Doctor agreement</param>
-        /// <param name="expected">Wxpected result</param>
+        /// <param name="expected">Expected result</param>
         [TestMethod]
         [DataRow("Jan", "Kowalski", -9, true, true, "Brak kwalifikacji")]
         [DataRow("Jan", "Kowalski", -11, true, true, "Skrzat")]
